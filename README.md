@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🎨 UI/UX: value a well-thought-out interface and user-friendliness<br>🛠️ Standards: rely on the best practices and development patterns<br>🚀 React: develop modern web applications<br>🛡️ TypeScript: write type-safe and maintainable code<br>🔥 Passion: continue to improve myself<br>⚡ Motivation: constantly strive to evolve and experiment<br>📚 Storybook: document and test UI components<br>⏳ Experience: in frontend since 2022
 
 
